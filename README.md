@@ -4,8 +4,8 @@
 This application examines data stored in xml, yml or csv format files to produce a sum of the 'value' attribute.
 
 Example Parameters:
-python script.py --input data/file.yml
-python script.py --input data/file.xml --output results/results.txt
+- python script.py --input data/file.yml
+- python script.py --input data/file.xml --output results/results.txt
 
 2 inputs are taken:
 --input is Mandatory and --output is Optional
