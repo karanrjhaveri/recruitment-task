@@ -19,9 +19,9 @@ Steps Performed (Log):-
 3. Run Commands:
 4. Navigate to the script's directory
 cd /d D:\..\Github\recruitment-task\Python
-5. Install the necessary packages for this project
-pip install csv
-pip install xmltodict
-pip install argparse
-pip install yaml
+5. Install the necessary packages for this project using pip
+- csv
+- xmltodict
+- argparse
+- yaml
 6. Completed script.py
