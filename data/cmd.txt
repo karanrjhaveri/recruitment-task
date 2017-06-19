@@ -1,0 +1,3 @@
+script.py -i data/file.xml
+script.py -i data/file.yml
+script.py -i data/file.csv

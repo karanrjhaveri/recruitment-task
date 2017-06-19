@@ -25,3 +25,10 @@ cd /d D:\..\Github\recruitment-task\Python
 - argparse
 - yaml
 6. Completed script.py
+7. Functional tests conducted using test.py 
+
+Development Strategy:
+- Create code stub and roughly flesh out the idea
+- Break each functionality of the application into smaller modules.
+- Test each module independently and after including in the script
+- Once script was complete, made a test script that validates the output of the main script
