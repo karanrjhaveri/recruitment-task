@@ -22,7 +22,7 @@ If no output argument supplied, the output prints to stdout .
 
 Functional Test:  
 (Python)  
-- python test.py
+- python test.py  
 (PHP)  
 - php test.php
 
@@ -39,7 +39,7 @@ b. Install the necessary packages for this project using pip
 - argparse
 - yaml
 4. Completed script.py
-5. Functional tests conducted using test.py
+5. Functional tests conducted using test.py  
 (PHP)  
 1. Install Xampp
 2. Add PHP binary to Path (https://www.youtube.com/watch?v=neBVQBL_2P0)
