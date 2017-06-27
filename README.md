@@ -26,8 +26,8 @@ Steps Performed (Log):-
 1. Install Python v.3
 2. Open Command-line
 3. Run Commands:
-a. Navigate to the script's directory: 'cd /d D:\..\Github\recruitment-task\Python'
-b. Install the necessary packages for this project using pip
+a. Navigate to the script's directory: 'cd /d D:\..\Github\recruitment-task\Python'  
+b. Install the necessary packages for this project using pip  
 - csv
 - xmltodict
 - argparse
@@ -39,8 +39,8 @@ b. Install the necessary packages for this project using pip
 2. Add PHP binary to Path (https://www.youtube.com/watch?v=neBVQBL_2P0)
 3. Installed Composer: https://getcomposer.org/download/
 3. Install Symfony:
-a. Navigate to script's directory via Command-line
-b. 'composer require symfony/symfony' (or alternatively 'compser require symfony/yaml')
+a. Navigate to script's directory via Command-line  
+b. 'composer require symfony/symfony' (or alternatively 'compser require symfony/yaml')  
 4. Completed script.php
 5. Functional tests conducted using test.php
 
