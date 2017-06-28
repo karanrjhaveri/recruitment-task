@@ -12,8 +12,8 @@ Example Parameters for Script:
 - python script.py --input data/file.yml  
 - python script.py --input data/file.xml --output results/results.txt  
 (PHP)  
-- php script.py --input data/file.csv  
-- php script.py --input data/file.yml --output results/results.txt  
+- php script.php --input data/file.csv  
+- php script.php --input=data/file.yml --output=results/results.txt  
 
 2 inputs are taken:  
 --input is Mandatory and --output is Optional  
@@ -25,6 +25,10 @@ Functional Test:
 - python test.py  
 (PHP)  
 - php test.php
+
+Results:
+- 'recorded results' folder shows all the results from each run
+- The sub-folders are segmented by input file-type
 
 Steps Performed (Log):-  
 
